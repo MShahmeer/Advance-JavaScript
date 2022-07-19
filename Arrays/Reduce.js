@@ -1,6 +1,6 @@
 //The reduce method executes the reducer function (that you provide) on each element of an array resulting a single output value
 
-//The reducer function takes the 4 arguments
+//The reducer function takes the 4 arguments and an initial value that is optional
 // 1: Accumulator:  contains the first value of array and accumulates all other values
 // 2: Cuurent Value
 // 3: Current Index
